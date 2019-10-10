@@ -1,0 +1,2 @@
+Obliczanie pole trójkąta
+Program ma wyświetlić okno z dwoma polami tekstowymi, które przyjmują wartości dla zmiennych a i h oraz pole nieedycyjne z wynikiem. Należy uwzględnić wartości zmienno przecinkowe oraz zabezpieczenia na wypadek wpisania innych znaków niż liczby. Panel sterowania ma zapewnić wywołanie akcji obliczenia pola trójkąta oraz wyczyszczenie wszystkich pól. Pola tekstowe mają zostać rozmieszczone pionowo, natomiast panel sterowania powinien znajdować się pod nimi w układzie horyzontalnym
