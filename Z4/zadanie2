@@ -1,0 +1,9 @@
+- na branchu master twrzymy dwa pliki (plik1.txt i plik2.txt)
+- commitujemy
+- modyfikujemy plik1.txt
+- commitujemy
+- tworzymy nowego brancha i w ramach niego modyfikujemy plik2.txt
+- commitujemy
+- w nowym branchu dodajemy plik3.txt
+- commitujemy
+- scalamy wszystko z masterem wykorzystując rebase
