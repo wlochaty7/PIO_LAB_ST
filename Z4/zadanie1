@@ -1,0 +1,8 @@
+- towrzymy puste repozytorium na github
+- kopiujemy je na lokalny komputer
+- w ramach lokalnego repozytorium tworzymy dwa pliki (plik1.txt i plik2.txt) oraz po zatwierdzeniu wysyłamy do zdalnego repozytorium
+- tworzymy dodatkowy plik (plik3.txt) i dodajemy go do listy plików ignorowanych
+- modyfikujemy plik1.txt
+- wszystkie zmiany wysyłamy do zdalnego repozytorium
+- tworzymy nowy branch i w ramach niego dodajemy dodajemy plik4.txt
+- wszystkie zmiany wysyłamy na zdalne repozytorium
